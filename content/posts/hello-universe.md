@@ -5,7 +5,7 @@ title = "Hello Universe!"
 description = "Welcome to my new brand new blog"
 slug = ""
 tags = ["blog", "post"]
-categories = ["intro"]
+categories = ["blog"]
 externalLink = ""
 series = []
 +++
