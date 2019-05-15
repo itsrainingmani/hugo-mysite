@@ -53,7 +53,7 @@ pygmentscodefencesguesssyntax = true
     url = "https://gitlab.com/manikandan_ts"
 [[params.social]]
     name = "Dev.to"
-    icon = "fab da-dev"
+    icon = "fab fa-dev fa-2x"
     weight = 5
     url = "https://dev.to/tsmanikandan"
 
