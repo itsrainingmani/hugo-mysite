@@ -13,7 +13,7 @@ pygmentscodefencesguesssyntax = true
 
 [params]
     author = "Manikandan Sundararajan"
-    info = "Back and Mid stack Developer + Mechanical Keyboard nerd"
+    info = "Mid/Backend Developer + Mechanical Keyboard nerd"
     description = "Mani's super cool site & blog"
     keywords = "blog,developer,personal"
     avatarurl = "/images/avatar.jpg"
@@ -21,7 +21,7 @@ pygmentscodefencesguesssyntax = true
     favicon_32 = "/img/favicon-32x32.png"
     favicon_16 = "/img/favicon-16x16.png"
 
-    footercontent = "Brought to you by Caffeine"
+    footercontent = "Made with <3 & caffeine in NYC"
 
     hidecredits = false
     hidecopyright = false
@@ -36,16 +36,22 @@ pygmentscodefencesguesssyntax = true
     icon = "fab fa-github fa-2x"
     weight = 1
     url = "https://github.com/tsmanikandan/"
+    [[params.social]]
+    name = "Twitter"
+    icon = "fab fa-twitter fa-2x"
+    weight = 2
+    url = "https://twitter.com/itsrainingmani/"
+[[params.social]]
+    name = "LinkedIn"
+    icon = "fab fa-linkedin fa-2x"
+    weight = 3
+    url = "https://linkedin.com/in/mtiruman/"
 [[params.social]]
     name = "Gitlab"
     icon = "fab fa-gitlab fa-2x"
-    weight = 2
+    weight = 4
     url = "https://gitlab.com/manikandan_ts"
-[[params.social]]
-    name = "Twitter"
-    icon = "fab fa-twitter fa-2x"
-    weight = 3
-    url = "https://twitter.com/itsrainingmani/"
+
 
 # Menu links
 [[menu.main]]
