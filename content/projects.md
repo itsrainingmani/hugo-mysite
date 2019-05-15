@@ -1,7 +1,7 @@
 ---
 title: "Projects"
 date: 2019-05-15T16:20:53-04:00
-draft: true
+draft: false
 ---
 
 ## Work in progress

@@ -1,7 +1,7 @@
 ---
 title: "Contact me"
 date: 2019-05-15T16:20:44-04:00
-draft: true
+draft: false
 ---
 
 ## Work in progress
