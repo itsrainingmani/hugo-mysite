@@ -51,6 +51,11 @@ pygmentscodefencesguesssyntax = true
     icon = "fab fa-gitlab fa-2x"
     weight = 4
     url = "https://gitlab.com/manikandan_ts"
+[[params.social]]
+    name = "Dev.to"
+    icon = "fab da-dev"
+    weight = 5
+    url = "https://dev.to/tsmanikandan"
 
 
 # Menu links
