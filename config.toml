@@ -18,8 +18,8 @@ pygmentscodefencesguesssyntax = true
     keywords = "blog,developer,personal"
     avatarurl = "/images/avatar.jpg"
 
-    favicon_32 = "/images/favicon.ico"
-    favicon_16 = "/images/favicon.ico"
+    favicon_32 = "/images/favicon-mondrian-2.ico"
+    favicon_16 = "/images/favicon-mondrian-2.ico"
 
     footercontent = "Made with ❤️ & ☕ in NYC"
 
