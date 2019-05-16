@@ -3,6 +3,7 @@ title = "Mani's super cool site"
 theme = "hugo-coder"
 languageCode = "en-us"
 defaultContentLanguage ="en"
+enableGitInfo= true
 
 paginate = 10
 canonifyUrls = true
