@@ -4,7 +4,7 @@ theme = "hugo-coder"
 languageCode = "en-us"
 defaultContentLanguage ="en"
 
-paginate = 20
+paginate = 10
 canonifyUrls = true
 
 pygmentstyle = "manni"
@@ -21,7 +21,7 @@ pygmentscodefencesguesssyntax = true
     favicon_32 = "/img/favicon-32x32.png"
     favicon_16 = "/img/favicon-16x16.png"
 
-    footercontent = "Made with ❤️ & caffeine in NYC"
+    footercontent = "Made with ❤️ & ☕ in NYC"
 
     hidecredits = false
     hidecopyright = false
