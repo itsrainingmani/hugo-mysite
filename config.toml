@@ -26,6 +26,8 @@ pygmentscodefencesguesssyntax = true
     hidecredits = false
     hidecopyright = false
 
+    commit = true
+
     rtl = false
 
     math = true
