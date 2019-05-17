@@ -20,6 +20,6 @@ Go program that randomly modifies saturation, contrast and hue values of an imag
 
 Go program that generates a stand-alone, single use executable containing the application installer and encrypted admin credentials allowing non-admin users to install software on a machine without explicitly needing admin privileges.
 
-[View project](https://github.com/tsmanikandan/SpotifyLyrics)
+[View project](https://github.com/tsmanikandan/EncryptedDeploy)
 
 <!-- {{< vimeo 85106529>}} -->
