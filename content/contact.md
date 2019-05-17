@@ -13,3 +13,9 @@ draft: false
 Thank you for your interest! Enjoy this video!
 
 {{< vimeo 85106529>}}
+
+<br>
+Want to securely contact me?
+<br>
+[*Download my GPG Public Key*](/security/public.key)
+
