@@ -1,38 +1,62 @@
 <section class="container centered">
-    <div class="about">
-      {{ with .Site.Params.avatarurl }}
-        <div class="avatar"><img src="{{ . | relURL }}" alt="avatar"></div>
-      {{ end }}
-      <h1>{{ .Site.Params.author }}</h1>
-      <h2>{{ .Site.Params.info }}</h2>
-      {{ with .Site.Params.social }}
-      <ul>
-        {{ range sort .}}
-          {{ if .icon }}
-            <li>
-              <a href="{{ .url }}" aria-label="{{ .name }}">
-                <i class="{{ .icon }}" aria-hidden="true"></i>
-              </a>
-            </li>
-          {{ else }}
-            <li>
-              <a href="{{ .url }}" aria-label="{{ .name }}">{{ .name }}</a>
-            </li>
-          {{ end }}
+  <div class="about">
+    {{ with .Site.Params.avatarurl }}
+      <div class="avatar"><img src="{{ . | relURL }}" alt="avatar"></div>
+    {{ end }}
+    <h1>{{ .Site.Params.author }}</h1>
+    <h2>{{ .Site.Params.info }}</h2>
+    {{ with .Site.Params.social }}
+    <ul>
+      {{ range sort .}}
+        {{ if .icon }}
+          <li>
+            <a href="{{ .url }}" aria-label="{{ .name }}">
+              <i class="{{ .icon }}" aria-hidden="true"></i>
+            </a>
+          </li>
+        {{ else }}
+          <li>
+            <a href="{{ .url }}" aria-label="{{ .name }}">{{ .name }}</a>
+          </li>
         {{ end }}
-      </ul>
       {{ end }}
-      <details>
-          <summary>Done this week on Makerlog</summary>
-          <iframe title="Makerlog Embed" height="300" style="width:100%" scrolling="no" frameborder="0" allowtransparency="true" src="https://api.getmakerlog.com/users/2681/embed"></iframe>
-      </details>
-      <details> 
-        <summary>Projects</summary>
-        <a href='https://github.com/tsmanikandan/SpotifyLyrics'>Spotify Lyrics CLI</a>
-        <br>
-        <a href='https://github.com/tsmanikandan/GoDeepFry'>Go DeepFry Memes</a>
-        <br>
-        <a href='https://github.com/tsmanikandan/EncryptedDeploy'>EncryptedDeploy</a>
-      </details>
-    </div>
-  </section>
+    </ul>
+    {{ end }}
+    <details>
+        <summary>Done this week on Makerlog</summary>
+        <iframe title="Makerlog Embed" height="300" style="width:100%" scrolling="no" frameborder="0" allowtransparency="true" src="https://api.getmakerlog.com/users/2681/embed"></iframe>
+    </details>
+    <details> 
+      <summary>Projects</summary>
+      <a href='https://github.com/tsmanikandan/SpotifyLyrics'>Spotify Lyrics CLI</a>
+      <br>
+      <a href='https://github.com/tsmanikandan/GoDeepFry'>Go DeepFry Memes</a>
+      <br>
+      <a href='https://github.com/tsmanikandan/EncryptedDeploy'>EncryptedDeploy</a>
+    </details>
+  </div>
+</section>
+<script src="js/particles.min.js"></script>
+<script>
+  window.onload = function() {
+    Particles.init({
+      selector: '.background',
+      color: '#75A5B7',
+      maxParticles: 130,
+      connectParticles: true,
+      responsive: [
+        {
+          breakpoint: 768,
+          options: {
+            maxParticles: 80
+          }
+        }, {
+          breakpoint: 375,
+          options: {
+            maxParticles: 50
+          }
+        }
+      ]
+    });
+  };
+</script>
