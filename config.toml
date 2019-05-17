@@ -25,7 +25,6 @@ pygmentscodefencesguesssyntax = true
 
     hidecredits = false
     hidecopyright = false
-    commit = "https://github.com/tsmanikandan/hugo-mysite/tree/master/"
 
     rtl = false
 
