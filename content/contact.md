@@ -8,7 +8,7 @@ draft: false
 
 [*Shoot me an email*](mailto:me@tsmanikandan.com)
 
-[*Deploy the bird*](https://twitter.com/itsrainingmani)
+[*Slide into my Twitter DMs*](https://twitter.com/itsrainingmani)
 
 Thank you for your interest! Enjoy this video!
 
