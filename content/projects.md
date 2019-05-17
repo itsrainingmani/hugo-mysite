@@ -4,7 +4,7 @@ date: 2019-05-15T16:20:53-04:00
 draft: false
 ---
 
-## Spotify Lyrics
+## Spotify Lyrics CLI
 
 Python command line program that polls the Spotify API and an online song lyric database to display neatly formatted lyrics of the currently playing song for the user
 
