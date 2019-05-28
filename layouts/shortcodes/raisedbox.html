@@ -1,0 +1,7 @@
+<div class="card">
+    <h2>{{.Get "title"}}</h2>
+    {{.Inner}}
+    {{ if .Get "link" }}
+        <a href="{{.Get "link"}}">View project</a>
+    {{ end }}
+</div>
