@@ -30,6 +30,8 @@ pygmentscodefencesguesssyntax = true
 
     math = true
 
+    custom_css = ["css/box.css"]
+
 # Social links
 [[params.social]]
     name = "Github"
