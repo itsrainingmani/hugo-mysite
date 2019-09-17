@@ -23,24 +23,27 @@
     </ul>
     {{ end }}
     <br>
-    <details>
-        <summary>Done this week on Makerlog</summary>
-        <iframe title="Makerlog Embed" height="400" style="width:100%" scrolling="no" frameborder="0" allowtransparency="true" src="https://api.getmakerlog.com/users/2681/embed"></iframe>
-    </details>
-    <br>
     <details> 
       <summary>Projects</summary>
       <section class="centered">
         <div style="text-align: left">
-          <a href="https://github.com/tsmanikandan/py-ulid">Py-ulid Library</a>
+          <a href="https://cheermethefuck.app">Cheer me the fuck up</a>
           <br>
-          <a href='https://github.com/tsmanikandan/SpotifyLyrics'>Spotify Lyrics CLI</a>
+          <a href="https://github.com/itsrainingmani/HackyNews">Hacky News</a>
           <br>
-          <a href='https://github.com/tsmanikandan/GoDeepFry'>Go DeepFry Memes</a>
+          <a href="https://github.com/itsrainingmani/py-ulid">Py-ulid Library</a>
           <br>
-          <a href='https://github.com/tsmanikandan/EncryptedDeploy'>EncryptedDeploy</a>
+          <a href='https://github.com/itsrainingmani/SpotifyLyrics'>Spotify Lyrics CLI</a>
+          <br>
+          <a href='https://github.com/itsrainingmani/GoDeepFry'>Go DeepFry Memes</a>
+          <br>
+          <a href='https://github.com/itsrainingmani/EncryptedDeploy'>EncryptedDeploy</a>
         </div>
       </section>
+    </details>
+    <details>
+        <summary>Done this week on Makerlog</summary>
+        <iframe title="Makerlog Embed" height="400" style="width:100%" scrolling="no" frameborder="0" allowtransparency="true" src="https://api.getmakerlog.com/users/2681/embed"></iframe>
     </details>
   </div>
 </section>
@@ -49,9 +52,11 @@
   window.onload = function() {
     Particles.init({
       selector: '.background',
-      color: '#75A5B7',
+      color: ['#020024', '#090979', '#00d4ff', '#75A5B7'],
       maxParticles: 130,
       connectParticles: true,
+      speed: 2,
+      sizeVariations: 2,
       responsive: [
         {
           breakpoint: 768,
