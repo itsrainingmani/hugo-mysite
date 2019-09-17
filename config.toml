@@ -13,7 +13,7 @@ pygmentscodefencesguesssyntax = true
 
 [params]
     author = "Manikandan Sundararajan"
-    info = "Mid/Backend Developer + Mechanical Keyboard Nerd"
+    info = "Fullstack Dev + Mechanical Keyboard Nerd"
     description = "Mani's super cool site & blog"
     keywords = "blog,developer,personal"
     avatarurl = "/images/avatar.jpg"
@@ -37,7 +37,7 @@ pygmentscodefencesguesssyntax = true
     name = "Github"
     icon = "fab fa-github fa-2x"
     weight = 1
-    url = "https://github.com/tsmanikandan/"
+    url = "https://github.com/itsrainingmani/"
     [[params.social]]
     name = "Twitter"
     icon = "fab fa-twitter fa-2x"
