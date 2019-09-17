@@ -6,13 +6,13 @@ draft: false
 
 {{< raisedbox title="Cheer me the fuck up" link="https://cheermethefuck.app">}}
 
-    Ever had bad days? Well have I got the solution for that! Check out [Cheer me the fuck up](https://cheermethefuck.app). Filled to the brim with pictures of cute zoo animals. It's guaranteed to make you cheer the fuck up.
+    Ever had bad days? Well have I got the solution for that! Check out <a href="https://cheermethefuck.app">Cheer me the fuck up</a>. Filled to the brim with pictures of cute zoo animals. It's guaranteed to make you cheer the fuck up.
 
 {{< /raisedbox >}}
 
 {{< raisedbox title="Hacky News" link="https://hackynews.itsrainingmani.now.sh">}}
 
-    Hacky News is a clone of the famous Hacker News website built entirely with React and Semantic UI. The source code lives at this [repo](https://github.com/itsrainingmani/HackyNews)
+    Hacky News is a clone of the famous Hacker News website built entirely with React and Semantic UI. The source code lives at this <a href="https://github.com/itsrainingmani/HackyNews">repo</a>
 
 {{< /raisedbox >}}
 
