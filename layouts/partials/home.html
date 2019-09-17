@@ -23,11 +23,6 @@
     </ul>
     {{ end }}
     <br>
-    <details>
-        <summary>Done this week on Makerlog</summary>
-        <iframe title="Makerlog Embed" height="400" style="width:100%" scrolling="no" frameborder="0" allowtransparency="true" src="https://api.getmakerlog.com/users/2681/embed"></iframe>
-    </details>
-    <br>
     <details> 
       <summary>Projects</summary>
       <section class="centered">
@@ -46,6 +41,10 @@
         </div>
       </section>
     </details>
+    <details>
+        <summary>Done this week on Makerlog</summary>
+        <iframe title="Makerlog Embed" height="400" style="width:100%" scrolling="no" frameborder="0" allowtransparency="true" src="https://api.getmakerlog.com/users/2681/embed"></iframe>
+    </details>
   </div>
 </section>
 <script src="js/particles.min.js"></script>
@@ -53,9 +52,11 @@
   window.onload = function() {
     Particles.init({
       selector: '.background',
-      color: '#75A5B7',
+      color: ['#020024', '#090979', '#00d4ff', '#75A5B7'],
       maxParticles: 130,
       connectParticles: true,
+      speed: 2,
+      sizeVariations: 2,
       responsive: [
         {
           breakpoint: 768,
