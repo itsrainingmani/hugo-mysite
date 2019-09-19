@@ -22,14 +22,14 @@ Eventually I found some great resources on how to properly setup the project and
 It all starts with *npm*. We're going to create a test directory, (let's call it ts-app) and initialize an *npm* project in this directory.
 I'm going to assume that you're familiar with *npm* and how to use it.
 
-```console
-$ mkdir ts-app && cd ts-app && npm init -y
+```shell
+mkdir ts-app && cd ts-app && npm init -y
 ```
 
 The `-y` option to `npm init` allows you to bypass the initial npm options and gets you a barebones project.
 The ts-app folder now has a `package.json` file.
 
-```console
+```shell
 $ ls -h
 package.json
 ```
@@ -38,13 +38,14 @@ package.json
 
 To get started, we're going to install some npm packages: 
 
-```console
-$ npm i -D typescript ts-node rollup rollup-plugin-typescript2 mocha @types/mocha @types/node
+```shell
+npm i -D typescript ts-node rollup rollup-plugin-typescript2 mocha @types/mocha @types/node
 ```
+
 That's a lot of packages. Let's break it down:
 
-* typescript: 
-* ts-node: 
+* typescript:
+* ts-node:
 * rollup:
 * rollup-plugin-typescript2:
 * mocha:
