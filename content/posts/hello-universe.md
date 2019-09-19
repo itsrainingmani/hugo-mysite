@@ -1,14 +1,14 @@
-+++ 
-draft = false
-date = 2019-05-14T20:49:43-04:00
-title = "Hello Universe!"
-description = "Welcome to my new brand new blog"
-slug = ""
-tags = ["blog", "post"]
-categories = ["blog"]
-externalLink = ""
-series = []
-+++
+---
+draft: false
+date: 2019-05-14T20:49:43-04:00
+title: "Hello Universe!"
+description: "Welcome to my new brand new blog"
+slug: ""
+tags: ["blog", "post"]
+categories: ["blog"]
+externalLink: ""
+series: []
+---
 
 ![Black Hole](/images/blackhole.jpg)
 
