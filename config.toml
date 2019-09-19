@@ -7,9 +7,9 @@ defaultContentLanguage ="en"
 paginate = 10
 canonifyUrls = true
 
-pygmentstyle = "manni"
-pygmentscodefences = true
-pygmentscodefencesguesssyntax = true
+pygmentsStyle = "manni"
+pygmentsCodeFences = true
+pygmentsCodefencesGuessSyntax = true
 
 [params]
     author = "Manikandan Sundararajan"
