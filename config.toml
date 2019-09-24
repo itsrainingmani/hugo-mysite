@@ -7,7 +7,7 @@ defaultContentLanguage ="en"
 paginate = 10
 canonifyUrls = true
 
-pygmentsStyle = "manni"
+pygmentsStyle = "solarized-dark"
 pygmentsCodeFences = true
 pygmentsCodefencesGuessSyntax = true
 
