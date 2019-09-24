@@ -1,7 +1,7 @@
 ---
 title: "Extending the String Prototype in JavaScript & TypeScript"
 date: 2019-09-24T10:44:08-04:00
-draft: true
+draft: false
 tags: ["blog", "js", "typescript"]
 ---
 
