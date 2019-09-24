@@ -57,12 +57,12 @@ pygmentsCodefencesGuessSyntax = true
     name = "Dev.to"
     icon = "fab fa-dev fa-2x"
     weight = 5
-    url = "https://dev.to/tsmanikandan"
+    url = "https://dev.to/itsrainingmani"
 
 
 # Menu links
 [[menu.main]]
-    name = "Blog"
+    name = "Posts"
     weight = 2
     url  = "/posts/"
 [[menu.main]]
