@@ -5,7 +5,7 @@ draft: true
 tags: ["blog", "typescript"]
 ---
 
-## You're here. What now?
+## You're here. What now
 
 Welcome, Traveler of the Interwebs. You seek knowledge and erudition, but will you find it here? That remains to be seen.
 
