@@ -46,7 +46,7 @@ However it is a little annoying that in order to perform this relatively basic o
 
 We are going to do this by extending `String.prototype`.
 
-> ⚠️ **Warning**: There is a lot of debate about whether or not extending the Prototypes of a native type in JavaScript is a good idea or not. Please be careful in doing this, especially if your code is going to be used by others.
+> ⚠️ **Warning**: The following examples are meant to be purely instructional. Please be careful in extending native types, especially if your code is going to be used by others since this can lead to unexpected behavior. It is recommended to prefix the name extended methods with some identifier so that a potential user can differentiate between your code and methods defined natively on the type.
 
 Without further ado, here's how we can call padStartEnd on a string:
 
