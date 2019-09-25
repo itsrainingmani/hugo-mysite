@@ -1,5 +1,5 @@
 baseURL = "https://www.itsrainingmani.dev"
-title = "Home"
+title = "Mani's super cool site"
 theme = "hugo-coder"
 languageCode = "en-us"
 defaultContentLanguage ="en"
@@ -14,7 +14,7 @@ pygmentsCodefencesGuessSyntax = true
 [params]
     author = "Manikandan Sundararajan"
     info = "Fullstack Dev + Mechanical Keyboard Nerd"
-    description = "Mani's super cool site & blog"
+    description = "My Personal site & blog"
     keywords = "blog,developer,personal"
     avatarurl = "/images/avatar.jpg"
 
