@@ -1,5 +1,5 @@
 baseURL = "https://www.itsrainingmani.dev"
-title = "💸 Welcome 💸"
+title = "Home"
 theme = "hugo-coder"
 languageCode = "en-us"
 defaultContentLanguage ="en"
