@@ -18,4 +18,3 @@ Thank you for your interest! Enjoy this video!
 Want to securely contact me?
 <br>
 [*Download my GPG Public Key*](/security/public.key)
-

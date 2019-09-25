@@ -10,4 +10,4 @@ I don’t like cold places
 
 I enjoy learning new things, creating github repos and enlightening people about the wonders of Mechanical Keyboards
 
-Currently publishing packages on NPM and learning Go and Rust.
+Currently dipping my toes into technical blogging, and learning Rust, Go & TypeScript.
