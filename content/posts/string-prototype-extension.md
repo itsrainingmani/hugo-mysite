@@ -82,7 +82,7 @@ console.log(String.prototype.hasOwnProperty("center"));
 
 This indicates that the `String.prototype` object has the specified property.
 
-## This but it in TypeScript
+## This but in TypeScript
 
 Now that we have a working implementation of an extended `String.prototype` in JavaScript, let's see how we can do the same thing in TypeScript.
 
