@@ -39,5 +39,3 @@ draft: false
     Go program that generates a stand-alone, single use executable containing the application installer and encrypted admin credentials allowing non-admin users to install software on a machine without explicitly needing admin privileges.
 
 {{< /raisedbox >}}
-
-<!-- {{< vimeo 85106529>}} -->

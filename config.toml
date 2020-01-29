@@ -38,7 +38,7 @@ pygmentsCodefencesGuessSyntax = true
     icon = "fab fa-github fa-2x"
     weight = 1
     url = "https://github.com/itsrainingmani/"
-    [[params.social]]
+[[params.social]]
     name = "Twitter"
     icon = "fab fa-twitter fa-2x"
     weight = 2
@@ -49,14 +49,9 @@ pygmentsCodefencesGuessSyntax = true
     weight = 3
     url = "https://linkedin.com/in/mtiruman/"
 [[params.social]]
-    name = "Gitlab"
-    icon = "fab fa-gitlab fa-2x"
-    weight = 4
-    url = "https://gitlab.com/manikandan_ts"
-[[params.social]]
     name = "Dev.to"
     icon = "fab fa-dev fa-2x"
-    weight = 5
+    weight = 4
     url = "https://dev.to/itsrainingmani"
 
 

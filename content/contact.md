@@ -6,7 +6,7 @@ draft: false
 
 ### You can find me via the following methods
 
-[*Shoot me an email*](mailto:me@tsmanikandan.com)
+[*Shoot me an email*](mailto:contact@tsmanikandan.com)
 
 [*Slide into my Twitter DMs*](https://twitter.com/itsrainingmani)
 
